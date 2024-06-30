@@ -85,7 +85,7 @@ echo "Runtime configuration: "
 cat config.json
 
 # start gophish
-# ./gophish
+./gophish
 
 # keep container running for debugging
 tail -f /dev/null
